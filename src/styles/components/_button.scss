@@ -1,0 +1,21 @@
+button {
+    cursor: pointer;
+    font-weight: 600;
+} 
+
+button:disabled {
+    cursor: default;
+}
+
+.login-button {
+    border-radius: 5px;
+    border-style: none;
+    height: 30px;
+    margin-top: 1rem;
+    color: white;
+    background-color: #2D9CDB;
+}
+
+.login-button:disabled {
+    background-color: #BDBDBD;
+}
