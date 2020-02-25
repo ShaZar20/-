@@ -9,7 +9,7 @@ const LoginViaSmsPage = () => (
             <p>טלפון נייד *</p>
             <form className="code-input">
                 <input />
-                <button>קבלת קוד</button>
+                <button disabled={false}>קבלת קוד</button>
             </form>
             <p>קוד *</p>
             <input 

@@ -44,4 +44,8 @@ input:disabled{
         font-size: 10px;
 
     }
+
+    button:disabled {
+        background-color: #828282;
+    }
 }
