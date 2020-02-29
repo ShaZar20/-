@@ -10,9 +10,11 @@ button:disabled {
 .login-button {
     border-radius: 5px;
     border-style: none;
-    height: 30px;
-    margin-top: 1rem;
+    // height: 30px;
+    margin-top: 2rem;
+    font-size: 16px;
     color: white;
+    padding: 1rem .5rem;
     background-color: #2D9CDB;
 }
 
